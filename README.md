@@ -100,7 +100,7 @@ Contribuciones a este proyecto son bienvenidas. Si tienes ideas o mejoras que de
 ![54_sqlmap_general_avanzado](https://github.com/user-attachments/assets/97dcf412-f3a1-45b8-a415-828de3c3438c)
 ![55_sqlmap_general_limpiezayreparacion](https://github.com/user-attachments/assets/4f446b83-7e39-4778-ae0d-4c575a7dc987)
 ![56_sqlmap_variado](https://github.com/user-attachments/assets/d6ce2f88-340b-48ab-8dd4-f756b9872aae)
-![57_dumparchivos](https://github.com/user-attachments/assets/3fe20486-2267-4d85-a6ab-753143a6a757)
+![57_dumparchivos](![57_dumparchivos](https://github.com/user-attachments/assets/de9232f2-6eab-44b0-9d57-2153233c9c8b)
 ![58_crack_fuerzabruta](https://github.com/user-attachments/assets/e8e8b7cf-2265-4427-b223-5c422404a6d2)
 ![59_crack_diccionario](https://github.com/user-attachments/assets/c8c31648-61f1-4e8d-92aa-9fe70520aad9)
 ![60_subdominios](https://github.com/user-attachments/assets/832701f7-07d6-45d3-82ef-140b8a71e753)
