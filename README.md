@@ -28,7 +28,7 @@ SuperGTool es una aplicación de pentesting desarrollada en VB.NET que proporcio
 
 ### Instalación
 
-1. **Descargar e instalar SuperGTool**: [Enlace de descarga]
+1. **Descargar e instalar SuperGTool**: [[SuperGtool v1.0 beta](https://www.supergtool.com/archivos/SuperGtool_beta_v1.rar)] 
 2. **Instalar Python**: Asegúrate de tener instalada la versión 3.x de Python desde [python.org](https://python.org).
 3. **Configurar SQLMap**: Clona e instala SQLMap desde su repositorio oficial en [sqlmap.org](https://sqlmap.org).
 
@@ -39,6 +39,8 @@ SuperGTool ha sido desarrollado exclusivamente con fines educativos. El uso de e
 ## Contribuciones
 
 Contribuciones a este proyecto son bienvenidas. Si tienes ideas o mejoras que desees sugerir, por favor abre un issue o envía una pull request.
+
+
 
 
 
