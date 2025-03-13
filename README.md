@@ -5,6 +5,8 @@ https://www.supergtool.com/
 
 SuperGTool es una aplicación de pentesting desarrollada en VB.NET que proporciona una interfaz gráfica sencilla y accesible para realizar pruebas de seguridad en sistemas propios. La herramienta integra diversas funcionalidades enfocadas en la auditoría de sistemas, búsqueda de vulnerabilidades y análisis de seguridad.
 
+Telegram: https://t.me/supergtool
+
 ## Características
 
 - **Integración con SQLMap**: Proporcionamos una interfaz gráfica para SQLMap, una potente herramienta de terceros para la automatización de inyecciones SQL.
